@@ -1,0 +1,39 @@
+{
+  "name": "cc-plugins",
+  "owner": {
+    "name": "Alexandre Roman"
+  },
+  "metadata": {
+    "description": "Local Claude Code plugins under development"
+  },
+  "plugins": [
+    {
+      "name": "cmux-plugin",
+      "description": "Integrates Claude Code with cmux — the native macOS terminal built for AI coding agents.",
+      "version": "1.0.2",
+      "source": {
+        "source": "github",
+        "repo": "alexandreroman/cmux-plugin"
+      },
+      "author": {
+        "name": "Alexandre Roman"
+      },
+      "license": "MIT",
+      "keywords": ["cmux", "terminal", "workflow", "notifications", "worktree", "macos"]
+    },
+    {
+      "name": "skillbox",
+      "description": "A repository of reusable skills and agents for Claude Code, built by Alexandre Roman",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "alexandreroman/skillbox"
+      },
+      "author": {
+        "name": "Alexandre Roman"
+      },
+      "license": "Apache-2.0",
+      "keywords": ["skills", "agents"]
+    }
+  ]
+}
