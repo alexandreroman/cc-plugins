@@ -24,7 +24,7 @@
     {
       "name": "skillbox",
       "description": "A repository of reusable skills and agents for Claude Code, built by Alexandre Roman",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": {
         "source": "github",
         "repo": "alexandreroman/skillbox"
