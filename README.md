@@ -19,10 +19,10 @@ Or as a local directory (for development):
 
 ## Available plugins
 
-| Plugin        | Description                                                        | Source                                                                      |
-| ------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| `cmux-plugin` | Integrates Claude Code with [cmux](https://www.cmux.dev) terminal. | [alexandreroman/cmux-plugin](https://github.com/alexandreroman/cmux-plugin) |
-| `skillbox`    | Repository of reusable skills and agents for Claude Code.          | [alexandreroman/skillbox](https://github.com/alexandreroman/skillbox)       |
+| Plugin     | Description                                                        | Source                                                                      |
+| ---------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| `cmux`     | Integrates Claude Code with [cmux](https://www.cmux.dev) terminal. | [alexandreroman/cmux-plugin](https://github.com/alexandreroman/cmux-plugin) |
+| `skillbox` | Repository of reusable skills and agents for Claude Code.          | [alexandreroman/skillbox](https://github.com/alexandreroman/skillbox)       |
 
 ## Installing a plugin
 
@@ -34,7 +34,7 @@ Or as a local directory (for development):
 For example:
 
 ```bash
-/plugin install cmux-plugin@cc-plugins
+/plugin install cmux@cc-plugins
 ```
 
 ## Structure

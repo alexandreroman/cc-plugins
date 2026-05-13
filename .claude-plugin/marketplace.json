@@ -8,9 +8,9 @@
   },
   "plugins": [
     {
-      "name": "cmux-plugin",
+      "name": "cmux",
       "description": "Integrates Claude Code with cmux — the native macOS terminal built for AI coding agents.",
-      "version": "1.2.3",
+      "version": "1.3.0",
       "source": {
         "source": "github",
         "repo": "alexandreroman/cmux-plugin"
